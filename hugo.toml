@@ -26,6 +26,12 @@ name = "Blog"
 url = "https://www.brookings.edu/people/siddhi-doshi/"
 weight = 3
 
+[[menu.main]]
+name = "Resources"
+url = "https://automatic-router-3aa.notion.site/b04ae66c128743d4a9c5a17b1d653584?v=c3bdacae975a429aa84152ccc790390e&pvs=4"
+weight = 4
+
+
 [params]
 description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics and climate policy."
 author = "Siddhi Doshi"
