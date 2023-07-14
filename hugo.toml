@@ -1,4 +1,4 @@
-baseURL = "https://SiddhisDoshi.github.io"
+baseURL = "siddhisdoshi.github.io"
 title = "Siddhi Doshi"
 paginate = 20
 theme = "PaperMod"
