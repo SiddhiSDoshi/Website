@@ -1,0 +1,112 @@
+baseURL = "https://SiddhisDoshi.github.io"
+title = "Siddhi Doshi"
+paginate = 20
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+
+[social]
+twitter = "SiddhisDoshi"
+
+[taxonomies]
+tag = "tags"
+
+[[menu.main]]
+name = "Papers"
+url = "/papers/"
+weight = 1
+
+[[menu.main]]
+name = "CV"
+url = "/cv.pdf"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "https://www.brookings.edu/people/siddhi-doshi/"
+weight = 3
+
+[params]
+description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics and climate policy."
+author = "Siddhi Doshi"
+DateFormat = "January 2006"
+defaultTheme = "light"
+hideFooter = true
+disableThemeToggle = true
+ShowShareButtons = false
+ShowReadingTime = false
+disableSpecial1stPost = true
+disableAnchoredHeadings = true
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = false
+ShowToc = false
+disableScrollToTop = true
+TocOpen = true
+ShowWordCount = false
+UseHugoToc = true
+comments = false
+math = true
+
+  [params.profileMode]
+  enabled = true
+  title = "Siddhi Doshi"
+  subtitle = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics and climate policy."
+  imageUrl = "profile3.jpg"
+  imageWidth = 220
+  imageHeight = 240
+  imageTitle = "Siddhi Doshi"
+
+    [[params.profileMode.buttons]]
+    name = "Papers"
+    url = "/papers/"
+
+ [[params.profileMode.buttons]]
+    name = "CV"
+    url = "cv.pdf"
+
+  [[params.socialIcons]]
+  name = "CV"
+  url = "cv.pdf"
+
+  [[params.socialIcons]]
+  name = "Email"
+  url = "mailto:siddhi.doshi@tufts.edu"
+
+  [[params.socialIcons]]
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=m03icisAAAAJ&hl=en"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/SiddhisDoshi"
+
+ [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/siddhisdoshi/"
+
+  [params.assets]
+  disableHLJS = true
+  disableScrollBarStyle = true
+
+  [params.cover]
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.label]
+  text = "Siddhi Doshi"
+  icon = "/favicon.ico"
+  iconHeight = 18
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+guessSyntax = true
+style = "xcode"
+
+[markup.tableOfContents]
+endLevel = 2
+ordered = false
+startLevel = 2
