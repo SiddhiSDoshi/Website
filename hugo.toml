@@ -102,7 +102,7 @@ math = true
 
   [params.label]
   text = "Siddhi Doshi"
-  icon = "/favicon.ico"
+  icon = "favicon.ico"
   iconHeight = 18
 
 [markup.goldmark.renderer]
