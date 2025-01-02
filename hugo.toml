@@ -87,6 +87,10 @@ math = true
   name = "linkedin"
   url = "https://www.linkedin.com/in/siddhisdoshi/"
 
+ [[params.socialIcons]]
+  name = "GitHub"
+  url = "https://github.com/SiddhiSDoshi"
+
   [params.assets]
   disableHLJS = true
   disableScrollBarStyle = true
