@@ -22,14 +22,9 @@ url = "/cv.pdf"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-url = "https://www.brookings.edu/people/siddhi-doshi/"
-weight = 3
-
-[[menu.main]]
 name = "Resources"
 url = "https://automatic-router-3aa.notion.site/b04ae66c128743d4a9c5a17b1d653584?v=c3bdacae975a429aa84152ccc790390e&pvs=4"
-weight = 4
+weight = 3
 
 
 [params]
