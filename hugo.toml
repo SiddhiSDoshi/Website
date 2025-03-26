@@ -28,7 +28,7 @@ weight = 3
 
 
 [params]
-description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics."
+description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics and climate policy."
 author = "Siddhi Doshi"
 DateFormat = "January 2006"
 defaultTheme = "light"
@@ -53,7 +53,7 @@ math = true
   [params.profileMode]
   enabled = true
   title = "Siddhi Doshi"
-  subtitle = "Hello! I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics and development. I'm currently exploring questions on electricity and energy markets. Before starting graduate school, I worked as a research assistant at the Brookings Institution."
+  subtitle = "Hello! I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics and climate policy. I'm currently exploring questions on environmental regulation and electricity markets. Before starting graduate school, I worked on energy transitions and carbon taxation as a research assistant at the Brookings Institution."
   imageUrl = "profile3.jpg"
   imageWidth = 240
   imageHeight = 240
@@ -78,6 +78,10 @@ math = true
   [[params.socialIcons]]
   name = "Google Scholar"
   url = "https://scholar.google.com/citations?user=m03icisAAAAJ&hl=en"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/SiddhisDoshi"
 
  [[params.socialIcons]]
   name = "linkedin"
