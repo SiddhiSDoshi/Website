@@ -28,7 +28,7 @@ weight = 3
 
 
 [params]
-description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics and climate policy."
+description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics."
 author = "Siddhi Doshi"
 DateFormat = "January 2006"
 defaultTheme = "light"
@@ -67,9 +67,6 @@ math = true
     name = "CV"
     url = "cv.pdf"
 
-  [[params.socialIcons]]
-  name = "CV"
-  url = "cv.pdf"
 
   [[params.socialIcons]]
   name = "Email"
@@ -79,9 +76,6 @@ math = true
   name = "Google Scholar"
   url = "https://scholar.google.com/citations?user=m03icisAAAAJ&hl=en"
 
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/SiddhisDoshi"
 
  [[params.socialIcons]]
   name = "linkedin"
