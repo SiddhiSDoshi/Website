@@ -12,8 +12,8 @@ twitter = "SiddhisDoshi"
 tag = "tags"
 
 [[menu.main]]
-name = "Papers"
-url = "/papers/"
+name = "Research"
+url = "/research/"
 weight = 1
 
 [[menu.main]]
@@ -28,7 +28,7 @@ weight = 3
 
 
 [params]
-description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics."
+description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers energy and environmental economics."
 author = "Siddhi Doshi"
 DateFormat = "January 2006"
 defaultTheme = "light"
@@ -60,8 +60,8 @@ math = true
   imageTitle = "Siddhi Doshi"
 
     [[params.profileMode.buttons]]
-    name = "Papers"
-    url = "/papers/"
+    name = "Research"
+    url = "/research/"
 
  [[params.profileMode.buttons]]
     name = "CV"
