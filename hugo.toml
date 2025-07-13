@@ -49,6 +49,7 @@ ShowWordCount = false
 UseHugoToc = true
 comments = false
 math = true
+googleAnalytics = "G-GLJ57714DT"
 
   [params.profileMode]
   enabled = true
