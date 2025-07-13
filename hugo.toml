@@ -53,7 +53,7 @@ math = true
   [params.profileMode]
   enabled = true
   title = "Siddhi Doshi"
-  subtitle = "Hello! I am a PhD student in Economics and Public Policy at Tufts University. My research covers environmental and energy economics. I'm currently exploring questions on renewable energy and electricity markets. Before starting graduate school, I worked as a research assistant at the Brookings Institution."
+  subtitle = "Hello! I am a PhD student in Economics and Public Policy at Tufts University. I study energy and environmental economics, particularly in developing countries. My work and interests include the effects of renewable energy on electricity markets and policy designs that improve energy access. Before starting graduate school, I worked as a research assistant at the Brookings Institution."
   imageUrl = "profile3.jpg"
   imageWidth = 240
   imageHeight = 240

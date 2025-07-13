@@ -1,5 +1,5 @@
 ---
 title: "Research"
 aliases: /archive/
-description: "Preprints and articles on environmental regulation, electricity markets, and energy transitions."
+description: "Research on environmental and energy economics."
 ---
