@@ -54,7 +54,7 @@ googleAnalytics = "G-GLJ57714DT"
   [params.profileMode]
   enabled = true
   title = "Siddhi Doshi"
-  subtitle = "I am a PhD student in Economics and Public Policy at Tufts University. I study energy and environmental economics, particularly in developing countries. **I am on the 2025/26 academic job market**. <br/> <br/> My work and interests include the effects of renewable energy on electricity markets and policy designs that improve energy access. In my job market paper, I study how solar and nonsolar generation interact in the Indian power grid, and its implications for electricity reliability. <br/> <br/> Before starting graduate school, I worked on environmental regulation and economic growth as a research assistant at the Brookings Institution. "
+  subtitle = "I am a PhD student in Economics and Public Policy at Tufts University. I study energy and environmental economics, particularly in developing countries. **I am on the 2025/26 academic job market**. My work and interests include the effects of renewable energy on electricity markets and policy designs that improve energy access. In my job market paper, I study how solar and nonsolar generation interact in the Indian power grid, and its implications for electricity reliability. Before starting graduate school, I worked on environmental regulation and economic growth as a research assistant at the Brookings Institution."
   imageUrl = "profile3.jpg"
   imageWidth = 240
   imageHeight = 240
