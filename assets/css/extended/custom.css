@@ -1,0 +1,55 @@
+/* === Left-align entire profile section (image, name, subtitle, buttons) === */
+.profile {
+  align-items: flex-start !important;
+  text-align: left !important;
+  justify-content: flex-start !important;
+}
+
+/* Optional: limit width and spacing for readability */
+.profile_inner {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+  max-width: 65ch;
+}
+
+/* Left-align subtitle paragraph */
+.profile .profile_inner > span {
+  display: block !important;
+  text-align: left !important;
+  align-self: flex-start !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+  max-width: 60ch;
+}
+
+/* === Left-align profile buttons === */
+.profile .buttons {
+  justify-content: flex-start !important;  /* move buttons to the left */
+  text-align: left !important;
+}
+
+.profile .buttons a {
+  margin-left: 0 !important;  /* remove any centering margin */
+  margin-right: 1rem;         /* optional: space between buttons */
+}
+
+/* --- Stronger alignment rule for profile buttons --- */
+.profile div[class*="buttons"],
+.profile .profile-buttons,
+.profile .buttons {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: flex-start !important;   /* align left */
+  align-items: flex-start !important;
+  text-align: left !important;
+  width: 100%;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+/* individual buttons */
+.profile div[class*="buttons"] a,
+.profile .buttons a {
+  margin-left: 0 !important;
+  margin-right: 1rem !important;
+}
