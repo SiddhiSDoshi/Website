@@ -28,7 +28,7 @@ weight = 3
 
 
 [params]
-description = "I am a PhD student in Economics and Public Policy at Tufts University. My research covers energy and environmental economics."
+description = "I am a Postdoctoral Fellow at Harvard University. My research covers energy and environmental economics."
 author = "Siddhi Doshi"
 DateFormat = "January 2006"
 defaultTheme = "light"
@@ -54,20 +54,15 @@ googleAnalytics = "G-GLJ57714DT"
   [params.profileMode]
   enabled = true
   title = "Siddhi Doshi"
-  subtitle = "I am a PhD student in Economics and Public Policy at Tufts University. I study energy and environmental economics, particularly in developing countries. <br><br>My work and interests include understanding the effects of renewable energy on electricity markets and studying policy designs to improve energy access. In my job market paper, I study how solar and nonsolar generation interact in the Indian power grid, and its implications for electricity reliability. Before starting graduate school, I worked on environmental regulation and economic growth as a research assistant at the Brookings Institution."
+  subtitle = "I am a Postdoctoral Fellow at the Salata Institute for Climate and Sustainability at Harvard University. I study energy and environmental economics. <br><br>My research focuses on electric vehicle public charging infrastructure, electricity markets, and renewable energy. I received my PhD in Economics and Public Policy from Tufts University. Before starting graduate school, I worked on environmental regulation and economic growth as a research assistant at the Brookings Institution."
   imageUrl = "profile3.jpg"
   imageWidth = 200
   imageHeight = 200
   imageTitle = "Siddhi Doshi"
 
 [[params.profileMode.buttons]]
-    name = "Job Market Paper"
-    url = "/papers/Siddhi_Doshi_JMP.pdf"
-
-[[params.profileMode.buttons]]
     name = "CV"
     url = "cv.pdf"
-
 
   [[params.socialIcons]]
   name = "Email"
