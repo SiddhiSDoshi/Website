@@ -54,7 +54,7 @@ googleAnalytics = "G-GLJ57714DT"
   [params.profileMode]
   enabled = true
   title = "Siddhi Doshi"
-  subtitle = "I am a Postdoctoral Fellow at the Salata Institute for Climate and Sustainability at Harvard University. I study energy and environmental economics. <br><br>My research focuses on electric vehicle public charging infrastructure, electricity markets, and renewable energy. I received my PhD in Economics and Public Policy from Tufts University. Before starting graduate school, I worked on environmental regulation and economic growth as a research assistant at the Brookings Institution."
+  subtitle = "I am a Postdoctoral Fellow at the Salata Institute for Climate and Sustainability at Harvard University. I study energy and environmental economics. <br><br>My research focuses on electric vehicle public charging infrastructure, electricity markets, and renewable energy. I received my PhD in Economics and Public Policy from Tufts University. Before starting graduate school, I worked on energy policy and productivity as a research assistant at the Brookings Institution."
   imageUrl = "profile3.jpg"
   imageWidth = 200
   imageHeight = 200
